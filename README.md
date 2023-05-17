@@ -1,7 +1,7 @@
-# 4xxbypass
-simple script for bypassing 403 &amp; 401
+### 4xxbypass
+simple script for bypassing 403 & 401 by path and header fuzzing.
 
-Usage
+### Usage
 ```
-python3 4xxbypass.py -u https://twitter.com/help
+python3 4xxbypass.py -u https://example.com/help
 ```
